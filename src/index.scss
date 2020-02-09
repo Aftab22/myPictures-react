@@ -1,0 +1,22 @@
+// everything on the page will have zero margin and padding , this line gets rid of all default margins dn paddings
+//border-sizing-border bpx allows us to add padding to the element , but size of the element does not change 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+//sass allows variables
+$purple0:#84c1ff;
+$purple1:#add6ff;
+$purple2:#d6eaff;
+$purple3:#eaf4ff;
+$bg:#f8fbff;
+
+body{
+    background-color: $bg;
+    color:$purple1;
+    font-family: 'Source Code Pro', monospace;
+}
+
+
