@@ -1,7 +1,7 @@
 @import "../../App.scss";
 
 .photoList{
-    width: 70vw;
+    width: 95vw;
     margin: 0 auto;
     padding: 2rem;
 }
@@ -10,8 +10,6 @@
     .photoList{
         display: grid;
         grid-template-columns: 1fr 1fr;
-    width: 100%;
-
         grid-column-gap: 1.5rem;
     }
 }
@@ -30,8 +28,7 @@
      
         grid-template-columns:repeat(4,1fr);
         grid-column-gap: 2.5rem;
-
-        
+    
 
     }
 }

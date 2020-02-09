@@ -18,93 +18,93 @@ export const data=
 [ {
     id: 2,
     img: A,
-    title: "Title",
+    title: "Aurora",
     data: "info",
-    info: "hi"
+    info: "Happiness is not a station you arrive at, but a manner of traveling."
   },
   {
     id: 3,
     img: B,
-    title: "Title",
+    title: "Euphoria",
     data: "info",
-    info: "Data info"
+    info: "There is no such thing as a problem without a gift for you in its hands. You seek problems because you need their gifts"
   },
   {
     id: 4,
     img: C,
-    title: "Title",
+    title: "Serendipity",
     data: "info",
-    info: "Data info"
+    info: "Dream as if you'll live forever, live as if you'll die today."
   },
   {
     id: 5,
     img: D,
-    title: "Title",
+    title: "Cherish",
     data: "info",
-    info: "Data info"
+    info: "It is not how much we have, but how much we enjoy, that makes happiness."
   },
   {
     id: 6,
     img: E,
-    title: "Title",
+    title: "Elixir",
     data: "info",
-    info: "Data info"
+    info: "The secret of happiness is freedom, the secret of freedom is courage."
   },
   {
     id: 7,
     img: F,
-    title: "Title",
+    title: "Eternity",
     data: "info",
-    info: "Data info"
+    info: "A great obstacle to happiness is to expect too much happiness."
   },
   {
     id: 8,
     img: G,
-    title: "Title",
+    title: "Felicity",
     data: "info",
-    info: "Data info"
+    info: "Family, friends, a good laugh and beautiful weather are the best cures"
   },
   {
     id: 9,
     img: H,
-    title: "Title",
+    title: "Epiphany",
     data: "info",
-    info: "Data info"
+    info: "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes"
   },
   {
     id: 10,
     img: I,
-    title: "Title",
+    title: "Solitude",
     data: "info",
-    info: "Data info"
+    info: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful"
   },
   {
     id: 11,
     img: J,
-    title: "Title",
+    title: "Plethora",
     data: "info",
-    info: "Data info"
+    info: "Be happy with what you have. Be excited about what you want."
   },
   {
     id: 12,
     img: L,
-    title: "Title",
+    title: "Tranquility",
     data: "info",
-    info: "Data info"
+    info: "Folks are usually about as happy as they make their minds up to be."
   },
   {
     id: 14,
     img: N,
-    title: "Title",
+    title: "Eloquence",
     data: "info",
-    info: "Data info"
+    info: "If you do good, people will accuse you of selfish ulterior motives.Do good anyway."
   },
   ,
   {
     id: 15,
     img: O,
-    title: "Title",
+    title: "Sequoia",
     data: "info",
-    info: "Data info"
+    info: "People are illogical, unreasonable, and self-centered.Love them anyway."
   }
   ]
